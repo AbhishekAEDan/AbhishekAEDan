@@ -27,7 +27,7 @@ I’m a **Computer Science major** passionate about coding, problem-solving, and
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="AbhishekDan" />
  </a>
  <a href="https://discordapp.com/users/311693470328684546" target="_blank">
-  <img src="https://img.shields.io/discord/:serverId" alt="AbhishekDan" />
+  <img src="https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white" alt="AbhishekDan" />
  </a>
 </p>
 <br />
