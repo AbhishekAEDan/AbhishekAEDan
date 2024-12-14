@@ -5,9 +5,9 @@
 
 ### Hi there! 👋
 
-I’m a **Computer Science major** passionate about coding, problem-solving, and turning ideas into reality.   
-  
-- 🌱 Currently exploring a wide range of technologies and building out my portfolio.  
+I’m a **Computer Science major** passionate about coding, problem-solving, and turning ideas into reality.
+
+- 🌱 Continuously exploring a wide range of technologies and refining my portfolio.  
 - 🤝 Open to collaborating on projects, learning together, and creating something awesome.
 
 ### Languages & Tools  
@@ -25,8 +25,8 @@ I’m a **Computer Science major** passionate about coding, problem-solving, and
 
 ### GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAEDan&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekAEDan&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 ### Let’s Connect!  
