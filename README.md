@@ -48,7 +48,7 @@ I’m a **Computer Science major** passionate about coding, problem-solving, and
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VirtualBox](https://img.shields.io/badge/Virtual Box-0170FE?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0170FE?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 
 ### Languages & Tools  
