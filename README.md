@@ -10,11 +10,11 @@
         </samp>
 </h3>
 
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=30&lines=Computer+Science+Major" alt="Typing SVG" /></a>
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Programmer" alt="Typing SVG" /></a>
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Gamer" alt="Typing SVG" /></a>
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Digital+Creator" alt="Typing SVG" /></a>
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Musician" alt="Typing SVG" /></a>
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&multiline=true&width=435&height=25&lines=Computer+Science+Major" alt="Typing SVG" /></a>
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&multiline=true&width=435&height=25&lines=Programmer" alt="Typing SVG" /></a>
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&multiline=true&width=435&height=25&lines=Gamer" alt="Typing SVG" /></a>
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&multiline=true&width=435&height=25&lines=Digital+Creator" alt="Typing SVG" /></a>
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&multiline=true&width=435&height=25&lines=Musician" alt="Typing SVG" /></a>
 * <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&multiline=true&width=435&height=25&lines=Musician" alt="Typing SVG" /></a>
 
 ## 
