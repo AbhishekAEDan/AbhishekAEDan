@@ -10,15 +10,26 @@
         </samp>
 </h3>
 
-<p align="left" style="white-space: nowrap;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=1000&color=0BF700&center=false&vCenter=false&width=435&height=25&lines=BSc+Major+in+Computer+Science" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=1000&color=0BF700&center=false&vCenter=false&width=435&height=25&lines=Programmer" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=1000&color=0BF700&center=false&vCenter=false&width=435&height=25&lines=Gamer" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=1000&color=0BF700&center=false&vCenter=false&width=435&height=25&lines=Digital+Creator" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=1000&color=0BF700&center=false&vCenter=false&width=435&height=25&lines=Photographer" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=1000&color=0BF700&center=false&vCenter=false&width=435&height=25&lines=Musician" alt="Typing SVG" /></a>
-</p>
-
+<ul style="list-style: none; display: flex; flex-wrap: nowrap; align-items: flex-end; gap: 10px; padding: 0; margin: 0;">
+  <li style="list-style-type:none; margin:0; padding:0;">
+    <a href="https://github.com/AbhishekAEDan"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&center=false&vCenter=true&height=21&lines=%F0%9F%8E%93+BSc+Major+in+Computer+Science" alt="Typing SVG" /></a>
+  </li>
+  <li style="list-style-type:none; margin:0; padding:0;">
+    <a href="https://github.com/AbhishekAEDan"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&center=false&vCenter=true&height=21&lines=%F0%9F%92%BB+Programmer" alt="Typing SVG" /></a>
+  </li>
+  <li style="list-style-type:none; margin:0; padding:0;">
+    <a href="https://github.com/AbhishekAEDan"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&center=false&vCenter=true&height=21&lines=%F0%9F%8E%AE+Gamer" alt="Typing SVG" /></a>
+  </li>
+  <li style="list-style-type:none; margin:0; padding:0;">
+    <a href="https://github.com/AbhishekAEDan"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&center=false&vCenter=true&height=21&lines=%F0%9F%8E%A5+Digital+Creator" alt="Typing SVG" /></a>
+  </li>
+  <li style="list-style-type:none; margin:0; padding:0;">
+    <a href="https://github.com/AbhishekAEDan"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&center=false&vCenter=true&height=21&lines=%F0%9F%93%B8+Photographer" alt="Typing SVG" /></a>
+  </li>
+  <li style="list-style-type:none; margin:0; padding:0;">
+    <a href="https://github.com/AbhishekAEDan"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&center=false&vCenter=true&height=21&lines=%F0%9F%8E%B8+Musician" alt="Typing SVG" /></a>
+  </li>
+</ul>
 
 ## 
 <h2 align="center">
