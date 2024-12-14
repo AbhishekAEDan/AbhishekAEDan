@@ -32,22 +32,23 @@ I’m a **Computer Science major** passionate about coding, problem-solving, and
 </p>
 <br />
 
-## Languages of Programming
+## Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-3C873A?style=for-the-badge&labelColor=black&logo=coffeescript&logoColor=F0DB4F)
-![C++](https://img.shields.io/badge/C++-007acc?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc)
-![C#](https://img.shields.io/badge/-C#-61DBFB?style=for-the-badge&labelColor=black&logo=sharp&logoColor=61DBFB)
-![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) 
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![R](https://img.shields.io/badge/R-CC6699?style=for-the-badge&logo=r&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) 
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-3C873A?style=for-the-badge&labelColor=black&logo=coffeescript&logoColor=F0DB4F)  
+![C++](https://img.shields.io/badge/C++-007acc?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc)  
+![C#](https://img.shields.io/badge/-C#-61DBFB?style=for-the-badge&labelColor=black&logo=sharp&logoColor=61DBFB)  
+![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB)  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)  
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)  
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![R](https://img.shields.io/badge/R-CC6699?style=for-the-badge&logo=r&logoColor=white)  
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)  
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Virtual Box](https://img.shields.io/badge/Virtual Box-0170FE?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 
 ### Languages & Tools  
