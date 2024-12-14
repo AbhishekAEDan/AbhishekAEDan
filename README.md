@@ -36,7 +36,6 @@ I’m a **Computer Science major** passionate about coding, problem-solving, and
 
 ![Java](https://img.shields.io/badge/Java-3C873A?style=for-the-badge&labelColor=black&logo=coffeescript&logoColor=F0DB4F) 
 ![C++](https://img.shields.io/badge/C++-007acc?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc) 
-![CSharp](https://img.shields.io/badge/C#-007acc?style=for-the-badge&labelColor=black&logo=sharp&logoColor=007acc)
 ![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB) 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) 
@@ -48,12 +47,17 @@ I’m a **Computer Science major** passionate about coding, problem-solving, and
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VirtualBox](https://img.shields.io/badge/VirtualBox-0170FE?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0170FE?style=for-the-badge&logo=virtualbox&logoColor=white) 
+![AdobeAudition](https://img.shields.io/badge/Audition-F0DB4F?style=for-the-badge&labelColor=black&logo=adobeaudition&logoColor=F0DB4F) 
+![AdobePhotoshop](https://img.shields.io/badge/Photoshop-007acc?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=007acc) 
+![AdobeIllustrator](https://img.shields.io/badge/Illustrator-61DBFB?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=61DBFB) 
+![AdobePremierePro](https://img.shields.io/badge/PremierPro-20232A?style=for-the-badge&logo=adobepremierepro&logoColor=61DAFB) 
+![AdobeAfterEffects](https://img.shields.io/badge/AfterEffects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=white) 
+![EclipseIDE](https://img.shields.io/badge/EclipseIDE-3C873A?style=for-the-badge&labelColor=black&logo=eclipseide&logoColor=3C873A) 
+![GodotEngine](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=white) 
+![UnrealEngine](https://img.shields.io/badge/Unreal-4EA94B?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 
-### Languages & Tools  
-
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 
 ### GitHub Stats  
 <p align="center">
