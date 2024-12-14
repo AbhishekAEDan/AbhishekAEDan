@@ -1,7 +1,7 @@
-<!-- You can add a fun, animated GIF or image at the top -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding gif" width="300"/>
-</p>
+<h2 align="center">
+ WELCOME TO MY LIFE
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <h3 align="center">
         <samp>&gt; Hey!, I am
