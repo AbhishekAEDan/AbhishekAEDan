@@ -3,7 +3,11 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding gif" width="300"/>
 </p>
 
-### Hi there! 👋
+<h3 align="center">
+        <samp>&gt; Hey!, I am
+                <b><a target="_blank" href="">Abhishek</a></b>
+        </samp>
+</h3>
 
 I’m a **Computer Science major** passionate about coding, problem-solving, and turning ideas into reality.
 
