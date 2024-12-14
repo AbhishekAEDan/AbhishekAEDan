@@ -15,7 +15,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&lines=%F0%9F%8E%AEGamer" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&lines=%F0%9F%8E%A5Digital+Creator" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&lines=%F0%9F%93%B8Photographer" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&lines=%F0%9F%8E%B8Musician" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=100&lines=%F0%9F%8E%B8Musician" alt="Typing SVG" /></a>
 
 ## 
 <h2 align="center">
