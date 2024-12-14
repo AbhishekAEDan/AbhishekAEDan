@@ -36,7 +36,7 @@ I’m a **Computer Science major** passionate about coding, problem-solving, and
 
 ![Java](https://img.shields.io/badge/Java-3C873A?style=for-the-badge&labelColor=black&logo=coffeescript&logoColor=F0DB4F) 
 ![C++](https://img.shields.io/badge/C++-007acc?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc) 
-![C#](https://img.shields.io/badge/C#-61DBFB?style=for-the-badge&labelColor=black&logo=sharp&logoColor=61DBFB) 
+![CSharp](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB) 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) 
