@@ -10,10 +10,7 @@
         </samp>
 </h3>
 
-I’m a **Computer Science major** passionate about coding, problem-solving, and turning ideas into reality.
-
-- 🌱 Continuously exploring a wide range of technologies and refining my portfolio.  
-- 🤝 Open to collaborating on projects, learning together, and creating something awesome.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&lines=Programmer" alt="Typing SVG" /></a>
 
 ## 
 <h2 align="center">
