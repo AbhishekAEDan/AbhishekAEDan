@@ -10,13 +10,14 @@
         </samp>
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%8E%93BSc+Major+in+Computer+Science" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%92%BBProgrammer" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%8E%AEGamer" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%8E%A5Digital+Creator" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%93%B8Photographer" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%8E%B8Musician" alt="Typing SVG" /></a>
-
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%8E%93BSc+Major+in+Computer+Science" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%92%BBProgrammer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%8E%AEGamer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%8E%A5Digital+Creator" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%93%B8Photographer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=10000&color=0BF700&vCenter=true&width=435&height=25&lines=%F0%9F%8E%B8Musician" alt="Typing SVG" /></a>
+</p>
 ## 
 <h2 align="center">
  MY SOCIALS
