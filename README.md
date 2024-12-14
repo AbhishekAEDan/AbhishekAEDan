@@ -34,12 +34,17 @@ I’m a **Computer Science major** passionate about coding, problem-solving, and
 
 ## Languages of Programming
 
-![Java](https://img.shields.io/badge/Java-3C873A?style=for-the-badge&labelColor=black&logo=Java&logoColor=F0DB4F)
-![C++](https://img.shields.io/badge/C++-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Java](https://img.shields.io/badge/Java-3C873A?style=for-the-badge&labelColor=black&logo=coffeescript&logoColor=F0DB4F)
+![C++](https://img.shields.io/badge/C++-007acc?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc)
+![C#](https://img.shields.io/badge/-C#-61DBFB?style=for-the-badge&labelColor=black&logo=sharp&logoColor=61DBFB)
+![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) 
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![R](https://img.shields.io/badge/R-CC6699?style=for-the-badge&logo=r&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -47,10 +52,6 @@ I’m a **Computer Science major** passionate about coding, problem-solving, and
 
 ### Languages & Tools  
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 
 ### GitHub Stats  
