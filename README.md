@@ -72,13 +72,3 @@
 ![EclipseIDE](https://img.shields.io/badge/EclipseIDE-3C873A?style=for-the-badge&labelColor=black&logo=eclipseide&logoColor=3C873A) 
 ![GodotEngine](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=white) 
 ![UnrealEngine](https://img.shields.io/badge/Unreal-4EA94B?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-
-
-### GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAEDan&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-</p>
-
-### Let’s Connect!  
-Check out my projects, leave feedback, and feel free to reach out—always excited to meet fellow devs and learn new things!
