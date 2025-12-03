@@ -31,23 +31,6 @@
   </li>
 </ul>
 
-## 
-<h2 align="center">
- MY SOCIALS
-</h2>
-<p align="center">
- <a href="https://instagram.com/_eshwar_" target="blank">
-  <img src="https://img.shields.io/badge/-Instagram-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="AbhishekDan" />
- </a>
- <a href="https://wa.me/18687109089" target="blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="AbhishekDan" />
- </a>
- <a href="https://discordapp.com/users/311693470328684546" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-607aa3?style=flat&labelColor=44658b&logo=Discord&logoColor=white" alt="AbhishekDan" />
- </a>
-</p>
-<br />
-
 ## Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-3C873A?style=for-the-badge&labelColor=black&logo=coffeescript&logoColor=F0DB4F) 
