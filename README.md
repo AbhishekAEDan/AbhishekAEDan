@@ -162,7 +162,7 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 - [Assets, Threats, and Vulnerabilities](https://coursera.org/verify/57QKZY8AG3WM)
 - [Sound the Alarm: Detection and Response](https://coursera.org/verify/95NLUB9ZV8GN)
 - [Automate Cybersecurity Tasks with Python](https://coursera.org/verify/L7LSF02LRNWA)
-- Put It to Work: Prepare for Cybersecurity Jobs
+- [Put It to Work: Prepare for Cybersecurity Jobs](https://coursera.org/verify/WNX8CF1J8ZUY)
 - [Accelerate Your Job Search with AI](https://coursera.org/verify/1NT9EAWLVI1N)
 
 **Google Project Management**
