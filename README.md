@@ -124,8 +124,82 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 
 ## 🎓 Certifications
 
-- **Google Cybersecurity Professional Certificate** · Google Career Certificates · 2026
-- **Google Project Management Professional Certificate** · Google Career Certificates · 2026
+<div align="center">
+
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/professional-cert/2KDJK9NOVAZD)
+[![Google PM](https://img.shields.io/badge/Google-Project_Management_Professional_Certificate-34A853?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/professional-cert/1Z6YSB2NIJF1)
+[![Cisco CyberOps](https://img.shields.io/badge/Cisco-Cybersecurity_Operations_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://coursera.org/verify/specialization/6U0HGQNB5WDR)
+[![Cisco Network](https://img.shields.io/badge/Cisco-Network_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://coursera.org/verify/specialization/BQSKRZHP5ZRZ)
+[![Adobe Content Creator](https://img.shields.io/badge/Adobe-Content_Creator_Professional_Certificate-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://coursera.org/verify/professional-cert/Z7EKERRLMR1V)
+[![Adobe Design Tools](https://img.shields.io/badge/Adobe-Creative_Design_Tools_Specialization-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://coursera.org/verify/specialization/87JA1A5YPV68)
+[![MOS Excel](https://img.shields.io/badge/Microsoft_Office_Specialist-Excel_2016-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=250&cvid=7IaaDZA6k35Up6wNoyz+MA==)
+[![MOS Word](https://img.shields.io/badge/Microsoft_Office_Specialist-Word_2016-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=251&cvid=FGO6Ajp+or81NyKZ55DXaw==)
+[![MOS PowerPoint](https://img.shields.io/badge/Microsoft_Office_Specialist-PowerPoint_2016-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=252&cvid=roGuBJZeHJViWJqeVZwrzg==)
+![Graphic Design](https://img.shields.io/badge/Synergy_Training_Institute-Graphic_Design_Certification-8B949E?style=for-the-badge)
+
+</div>
+
+| Certificate | Issuer | Year |
+|---|---|:---:|
+| [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/2KDJK9NOVAZD) · 9 courses | Google Career Certificates | 2026 |
+| [Google Project Management Professional Certificate](https://coursera.org/verify/professional-cert/1Z6YSB2NIJF1) · 6 courses | Google Career Certificates | 2026 |
+| [Cisco Cybersecurity Operations Fundamentals](https://coursera.org/verify/specialization/6U0HGQNB5WDR) · 7 courses | Cisco | 2026 |
+| [Cisco Network Fundamentals](https://coursera.org/verify/specialization/BQSKRZHP5ZRZ) · 4 courses | Cisco | 2026 |
+| [Adobe Content Creator Professional Certificate](https://coursera.org/verify/professional-cert/Z7EKERRLMR1V) · 4 courses | Adobe | 2026 |
+| [Creative Design Tools: Photoshop, Illustrator, Acrobat](https://coursera.org/verify/specialization/87JA1A5YPV68) · 3 courses | Adobe | 2026 |
+| Graphic Design Certification | Synergy Training Institute | 2024 |
+| [MOS Excel 2016](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=250&cvid=7IaaDZA6k35Up6wNoyz+MA==) · [Word 2016](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=251&cvid=FGO6Ajp+or81NyKZ55DXaw==) · [PowerPoint 2016](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=252&cvid=roGuBJZeHJViWJqeVZwrzg==) | Microsoft Office Specialist | 2020 |
+
+<details>
+<summary><b>All 33 course certificates</b></summary>
+<br/>
+
+**Google Cybersecurity**
+- [Foundations of Cybersecurity](https://coursera.org/verify/XU2UT5N1IGYM)
+- [Play It Safe: Manage Security Risks](https://coursera.org/verify/GOUWZGGAIYDA)
+- [Connect and Protect: Networks and Network Security](https://coursera.org/verify/XYWY4DVPLAZC)
+- [Tools of the Trade: Linux and SQL](https://coursera.org/verify/2SHXSXRG651S)
+- [Assets, Threats, and Vulnerabilities](https://coursera.org/verify/57QKZY8AG3WM)
+- [Sound the Alarm: Detection and Response](https://coursera.org/verify/95NLUB9ZV8GN)
+- [Automate Cybersecurity Tasks with Python](https://coursera.org/verify/L7LSF02LRNWA)
+- Put It to Work: Prepare for Cybersecurity Jobs
+- [Accelerate Your Job Search with AI](https://coursera.org/verify/1NT9EAWLVI1N)
+
+**Google Project Management**
+- [Foundations of Project Management](https://coursera.org/verify/BIJ6SJJNAVZK)
+- [Project Initiation: Starting a Successful Project](https://coursera.org/verify/F28BOKE1Q61H)
+- [Project Planning: Putting It All Together](https://coursera.org/verify/9H86HRRCPOUL)
+- [Project Execution: Running the Project](https://coursera.org/verify/KTBPW4WOVED7)
+- [Agile Project Management](https://coursera.org/verify/XS8F4S76T9KY)
+- [Capstone: Applying Project Management in the Real World](https://coursera.org/verify/CEH5Q0ITRS38)
+
+**Cisco Cybersecurity Operations Fundamentals**
+- [Security Operations Center (SOC)](https://coursera.org/verify/VCBJ3IVMUKCZ)
+- [Endpoints and Systems](https://coursera.org/verify/H4LYRUS3NI1P)
+- [Network Security](https://coursera.org/verify/GDERQA5UIHQN)
+- [Data Security](https://coursera.org/verify/KDT0801HC9WN)
+- [Threat Analysis](https://coursera.org/verify/W1PGE25RE8SU)
+- [Threat Investigation](https://coursera.org/verify/THUIU7RSM1CU)
+- [Threat Response](https://coursera.org/verify/9ID1RLJ3BWMX)
+
+**Cisco Network Fundamentals**
+- [Network Architecture Fundamentals](https://coursera.org/verify/I831OAFPI7MM)
+- [Overview of Important Protocols](https://coursera.org/verify/FHXGA8U0OFHA)
+- [Network Management Approaches](https://coursera.org/verify/P077ND1DES26)
+- [Network Security Principles](https://coursera.org/verify/CYJC1331WGMU)
+
+**Adobe Content Creator**
+- [Multimedia Content Creation](https://coursera.org/verify/XE553WJPFP5C)
+- [Generative AI Content Creation](https://coursera.org/verify/3W25UOGIXW38)
+- [Social Media Content and Strategy](https://coursera.org/verify/XRQZYCZCUFE9)
+- [Design Fundamentals with AI](https://coursera.org/verify/N4BIXBM3ZV1D)
+
+**Adobe Creative Design Tools**
+- [Image Editing](https://coursera.org/verify/O02TLQ5DFL05)
+- [Graphic Design](https://coursera.org/verify/8KX5N8E0QYDU)
+- [Document Design](https://coursera.org/verify/ZRGQEMB5ZK8E)
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
