@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5A0,100:0d1117&height=180&section=header&text=Abhishek%20Dan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Systems%20Administrator%20%26%20Developer%20%C2%B7%20Trinidad%20%26%20Tobago&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="" />
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhishek+Dan+%F0%9F%91%8B;I+build+things+that+run+in+production.;26+containers.+99.97%25+uptime.;React+%C2%B7+Supabase+%C2%B7+Docker+%C2%B7+Cloudflare;Multi-agent+AI+pipelines+with+Claude+Code;Open+to+SysAdmin+%2F+DevOps+%2F+Backend+roles&repeat=true" alt="Abhishek Dan" />
@@ -22,12 +20,6 @@ Live infrastructure, real software, and systems that don't go down.
 
 ## 🧭 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" />
-
-```text
-abhishek@eshwarhq:~$ cat about.txt
-```
-
 I'm a Computer Science graduate who works at every layer of the stack: from **Cisco VLAN cutovers** and **Docker Compose orchestration** to **React + Supabase** apps and **multi-agent AI pipelines**.
 
 - 🐧 Run a **26-container Ubuntu 24.04 LTS** production environment behind **Cloudflare Zero Trust**, with nightly Restic backups and custom observability.
@@ -35,8 +27,6 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 - 🌐 Diagnosed and fixed real incidents in live enterprise networks (UniFi, Cisco Catalyst, Microsoft 365, multi-WAN failover).
 - 🎓 BSc Computer Science, **University of the West Indies**, St. Augustine · Google Cybersecurity & Google Project Management Professional Certificates.
 - 🔍 Open to roles in **systems administration, DevOps, backend, or AI-workflow engineering**.
-
-<br clear="right"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=%24+docker+compose+up+-d+--+26+services+healthy;%24+restic+backup+--+nightly+03%3A00+UTC+%E2%9C%93;%24+cloudflared+tunnel+run+--+zero+trust+active;%24+claude+--model+fable+--+orchestrating+subagents...&repeat=true" alt="" />
@@ -176,5 +166,3 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 <img src="https://komarev.com/ghpvc/?username=AbhishekAEDan&color=00E5A0&style=flat-square&label=Profile+views" alt="Profile views" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5A0,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="" />
