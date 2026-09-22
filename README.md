@@ -20,10 +20,6 @@ Live infrastructure, real software, and systems that don't go down.
 
 ## 🧭 About Me
 
-```text
-abhishek@eshwarhq:~$ cat about.txt
-```
-
 I'm a Computer Science graduate who works at every layer of the stack: from **Cisco VLAN cutovers** and **Docker Compose orchestration** to **React + Supabase** apps and **multi-agent AI pipelines**.
 
 - 🐧 Run a **26-container Ubuntu 24.04 LTS** production environment behind **Cloudflare Zero Trust**, with nightly Restic backups and custom observability.
