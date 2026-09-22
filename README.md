@@ -36,7 +36,7 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 
 ## 🚀 Featured Work
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Shipped+to+production.+Not+demos.;Click+a+project+to+see+it+live.&repeat=true" alt="" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=Shipped+to+production.+Not+demos.;Linked+projects+are+public.+Others+are+private+or+client+work.&repeat=true" alt="" /></div>
 
 | Project | What it is | Stack |
 |---|---|---|
