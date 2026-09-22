@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5A0,100:0d1117&height=180&section=header&text=Abhishek%20Dan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Systems%20Administrator%20%26%20Developer%20%C2%B7%20Trinidad%20%26%20Tobago&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhishek+Dan;Systems+Administrator+%26+Developer;I+build+things+that+run+in+production." alt="Abhishek Dan" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhishek+Dan+%F0%9F%91%8B;I+build+things+that+run+in+production.;26+containers.+99.97%25+uptime.;React+%C2%B7+Supabase+%C2%B7+Docker+%C2%B7+Cloudflare;Multi-agent+AI+pipelines+with+Claude+Code;Open+to+SysAdmin+%2F+DevOps+%2F+Backend+roles&repeat=true" alt="Abhishek Dan" />
 
 **CS graduate from UWI · Trinidad & Tobago**
 Live infrastructure, real software, and systems that don't go down.
@@ -16,9 +18,15 @@ Live infrastructure, real software, and systems that don't go down.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 🧭 About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" />
+
+```text
+abhishek@eshwarhq:~$ cat about.txt
+```
 
 I'm a Computer Science graduate who works at every layer of the stack: from **Cisco VLAN cutovers** and **Docker Compose orchestration** to **React + Supabase** apps and **multi-agent AI pipelines**.
 
@@ -28,9 +36,17 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 - 🎓 BSc Computer Science, **University of the West Indies**, St. Augustine · Google Cybersecurity & Google Project Management Professional Certificates.
 - 🔍 Open to roles in **systems administration, DevOps, backend, or AI-workflow engineering**.
 
----
+<br clear="right"/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=%24+docker+compose+up+-d+--+26+services+healthy;%24+restic+backup+--+nightly+03%3A00+UTC+%E2%9C%93;%24+cloudflared+tunnel+run+--+zero+trust+active;%24+claude+--model+fable+--+orchestrating+subagents...&repeat=true" alt="" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 🚀 Featured Work
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Shipped+to+production.+Not+demos.;Click+a+project+to+see+it+live.&repeat=true" alt="" /></div>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -56,7 +72,7 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -114,18 +130,26 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Audition-9999FF?style=flat-square&logo=adobeaudition&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 🎓 Certifications
 
 - **Google Cybersecurity Professional Certificate** · Google Career Certificates · 2026
 - **Google Project Management Professional Certificate** · Google Career Certificates · 2026
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekAEDan/AbhishekAEDan/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AbhishekAEDan/AbhishekAEDan/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+</picture>
+
+<br/>
+
 
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhishekAEDan&theme=github_dark" alt="GitHub stats" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhishekAEDan&theme=github_dark" alt="Top languages" />
@@ -136,7 +160,7 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 🎯 Beyond Code
 
@@ -144,7 +168,7 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 
 <div align="center">
 
-**Let's build something solid.**
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> **Let's build something solid.** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekdan1/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danabhishek.work@gmail.com)
@@ -152,3 +176,5 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 <img src="https://komarev.com/ghpvc/?username=AbhishekAEDan&color=00E5A0&style=flat-square&label=Profile+views" alt="Profile views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5A0,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="" />
