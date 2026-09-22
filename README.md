@@ -6,8 +6,8 @@
 Live infrastructure, real software, and systems that don't go down.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishekdan1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekdan1/)
-[![Email](https://img.shields.io/badge/Email-danabhishek.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danabhishek.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-CV_Site-00E5A0?style=for-the-badge&logo=cloudflarepages&logoColor=black)](https://github.com/AbhishekAEDan/cv-site)
+[![Email](https://img.shields.io/badge/Email-work@eshwarhq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@eshwarhq.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-CV_Site-00E5A0?style=for-the-badge&logo=cloudflarepages&logoColor=black)](https://cv.eshwarhq.com)
 
 <br/>
 
