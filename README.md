@@ -131,8 +131,10 @@ I'm a Computer Science graduate who works at every layer of the stack: from **Ci
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhishekAEDan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5A0&icon_color=00E5A0&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekAEDan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E5A0&langs_count=8" alt="Top languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhishekAEDan&theme=github_dark" alt="GitHub stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhishekAEDan&theme=github_dark" alt="Top languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhishekAEDan&theme=github_dark" alt="Profile details" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekAEDan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" alt="GitHub streak" />
 
